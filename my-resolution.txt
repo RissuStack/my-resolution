@@ -3,3 +3,5 @@ MY RESOLUSI
 -Konsisten ngoding/belajar pemrograman setiap hari
 -Konsisten membuat mini projek setiap hari
 -Menguasai STACK yang dituju
+-Memulai pembuatan projek REAL CASE STUDY
+-Menjadi Front End Developer ahli
